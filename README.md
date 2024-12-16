@@ -1,5 +1,5 @@
 ## **1era Datathon Datanilo**
-## **Analisis de los comentarios sobre la muerte de Alan García**
+## **Análisis de los comentarios sobre la muerte de Alan García**
 ## **Contexto del proyecto individual**
 
 Los dataset proporcionados reúne comentarios de varios posts en Facebook publicados por el diario
