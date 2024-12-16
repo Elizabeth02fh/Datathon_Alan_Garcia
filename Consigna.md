@@ -1,4 +1,4 @@
-# **Objetivo de la Mini-Datathon**  
+# **Objetivo de la 1era Datathon Datanilo**  
 
 El objetivo de esta actividad es que los participantes trabajen en equipo o de forma individual para transformar datos en información visualmente comprensible y accionable.  
 
