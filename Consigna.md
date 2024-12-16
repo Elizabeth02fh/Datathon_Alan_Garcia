@@ -30,7 +30,7 @@ El objetivo de esta actividad es que los participantes trabajen en equipo o de f
 
 ## **Duración de la Actividad**  
 
-- Los participantes tendrán un tiempo definido (por ejemplo, 2 días) para completar el reto.  
+- Los participantes tendrán un tiempo definido (2 días) para completar el reto.  
 
 ## **Entrega**  
 
