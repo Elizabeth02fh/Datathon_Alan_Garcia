@@ -14,17 +14,24 @@ el fallecimiento del ex presidente Alan García en 2019.
     
     *• Se descarga los dataset del drive, para luego realizar la importacion de los datasets con la libreria de pandas
     leemos los datasets.*
+    
     *• Realizacion del Analisis Exploratorio de datos usando python, transformación de los campos como la de Fecha, se creo otras
     dos columnas de Hora y de Fecha, ya que no estaban en un formato adecuado.*
+    
     *• Eliminacion de datos vacios, eliminacion de datos duplicados, imputacion de datos faltantes.*
+    
     *• Estandarización de las encabezados de las columnas, se puso un nombre adecuado a los headers de cada de los dfs.*
+    
     *• Se puso el tipo de datos adecuado a cada columna, como string o datetime, etc.*
+    
     *• Finalmente se exportaron a formato csv.*
     
   + `Paso 3:` Importacion de los csv a Power BI.
 
   + `Paso 4:` Modelos de datos en Power BI.
 
-  + `Paso 5:` Dashboard en Power BI.
+  + `Paso 5:` Portada o página de incio.
+
+  + `Paso 6:` Dashboard de Análisis de comentarios.
 
 
