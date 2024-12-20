@@ -37,6 +37,14 @@ el fallecimiento del ex presidente Alan García en 2019.
   + `Paso 6:` Dashboard de Análisis de comentarios.
 <img src="https://github.com/Elizabeth02fh/Datathon_Alan_Garcia/blob/a74db970952e43829ab2031df37392b607731169/dashboard.JPG" alt="dashboard.JPG" width="700">
 
+## **Resultados Clave:
+
+Tendencia Temporal: Identificación de patrones de actividad en las fechas y horas más comentadas.
+
+Segmentación: Clasificación de comentarios por suceso relevante, lo que permitió visualizar la concentración de interacciones por categoría y tiempo.
+
+Insights Clave: Análisis de los comentarios más recurrentes y relevantes.
+
 **Technological tools:**
 
 + `Python:` EDA + transformations + Preprocessing 
