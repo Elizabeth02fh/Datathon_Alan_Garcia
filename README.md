@@ -34,4 +34,8 @@ el fallecimiento del ex presidente Alan García en 2019.
 
   + `Paso 6:` Dashboard de Análisis de comentarios.
 
+**Technological tools:**
 
++ `Python:` EDA + transformations + Preprocessing 
++	`Visual Studio:` Entorno 
++	`Power BI:` Modelo de datos, Dashboard
