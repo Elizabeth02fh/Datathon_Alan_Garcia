@@ -35,7 +35,10 @@ el fallecimiento del ex presidente Alan García en 2019.
 <img src="https://github.com/Elizabeth02fh/Datathon_Alan_Garcia/blob/99dcefc40c1eff6cf69dcf58e4778dc2ecd2e25c/portada.png" alt="portada.png" width="700">
 
   + `Paso 6:` Dashboard de Análisis de comentarios.
-<img src="https://github.com/Elizabeth02fh/Datathon_Alan_Garcia/blob/a74db970952e43829ab2031df37392b607731169/dashboard.JPG" alt="dashboard.JPG" width="700">
+<img src="https://github.com/Elizabeth02fh/Datathon_Alan_Garcia/blob/60f0bc748119b6087ecb114439d532fa9dee3c8c/dashboard_1.JPG" alt="dashboard_1.JPG" width="700">
+
+<img src="https://github.com/Elizabeth02fh/Datathon_Alan_Garcia/blob/60f0bc748119b6087ecb114439d532fa9dee3c8c/dashboard_2.JPG"
+alt="dashboard_2.JPG" width="700">
 
 ## **Resultados Clave:
 
