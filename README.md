@@ -53,3 +53,4 @@ Insights Clave: Análisis de los comentarios más recurrentes y relevantes.
 + `Python:` EDA + transformations + Preprocessing 
 +	`Visual Studio:` Entorno 
 +	`Power BI:` Modelo de datos, Dashboard
++	`Dax:` Medidas Dax, calculos
