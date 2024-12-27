@@ -29,7 +29,7 @@ el fallecimiento del ex presidente Alan García en 2019.
   + `Paso 3:` Importacion de los csv a Power BI.
 
   + `Paso 4:` Creación del modelo de datos.
-<img src="https://github.com/Elizabeth02fh/Datathon_Alan_Garcia/blob/7d964b1c6cd291d492297beb471faed1488c2268/modelo_de_datos.JPG" alt="modelo_de_datos" width="700">
+<img src="https://github.com/Elizabeth02fh/Datathon_Alan_Garcia/blob/77cd2d218d3d5b7941a827a3e88d1d002fb175b6/modelo_de_datos.JPG" alt="modelo_de_datos" width="700">
 
   + `Paso 5:` Portada o página de incio.
 <img src="https://github.com/Elizabeth02fh/Datathon_Alan_Garcia/blob/99dcefc40c1eff6cf69dcf58e4778dc2ecd2e25c/portada.png" alt="portada.png" width="700">
